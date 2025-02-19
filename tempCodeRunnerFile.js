@@ -1,3 +1,2 @@
-if (s.slice(i, j + 1).includes(s[j])) {
-                s.slice(i, j)
-            }
+
+// console.log(maxProfit([7, 6, 4, 3, 1]))
