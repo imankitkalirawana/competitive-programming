@@ -1,2 +1,5 @@
-
-// console.log(maxProfit([7, 6, 4, 3, 1]))
+  // for (let i = 0; i < Math.ceil(flowerbed.length / 2); i + 2) {
+    //     if (flowerbed[i] === 0) {
+    //         remaining--;
+    //     }
+    // }
